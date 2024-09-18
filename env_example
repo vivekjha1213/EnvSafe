@@ -1,0 +1,4 @@
+# .env
+ENVSAFE_ENCRYPTION_KEY="supersecretkey123"
+ENVSAFE_STORAGE_PATH="/Users/vivekjha/Desktop/EnvSafe"
+ENV="development"
