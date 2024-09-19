@@ -1,5 +1,10 @@
 # EnvSafe: Secure Environment Variable Manager
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/vivekjha1213/EnvSafe)](https://goreportcard.com/report/github.com/vivekjha1213/EnvSafe)
+[![GoDoc](https://godoc.org/github.com/vivekjha1213/EnvSafe?status.svg)](https://godoc.org/github.com/vivekjha1213/EnvSafe)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
 EnvSafe is a powerful command-line tool designed to securely manage environment variables. It offers robust functionality for setting, retrieving, exporting, and loading environment variables with built-in encryption support.
 
 ## Features
