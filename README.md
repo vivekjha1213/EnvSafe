@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![EnvSafe Logo](https://via.placeholder.com/150x150.png?text=EnvSafe)
+![EnvSafe Logo](![image](https://github.com/user-attachments/assets/45e3925b-6c14-49fd-931c-f86aa42a9d39)
+)
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/vivekjha1213/EnvSafe)](https://github.com/vivekjha1213/EnvSafe/blob/main/go.mod)
 [![Go Report Card](https://goreportcard.com/badge/github.com/vivekjha1213/EnvSafe)](https://goreportcard.com/report/github.com/vivekjha1213/EnvSafe)
